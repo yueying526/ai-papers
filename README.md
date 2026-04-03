@@ -1,6 +1,18 @@
-# 📚 AI 核心论文分类总表
+# AI Papers Reading List 📚
 
-> 三级优先级 × 七大研究方向 · 共计 45 篇
+**A curated collection of 45 essential AI papers, organized by 7 research areas × 3 priority levels.**
+
+AI 产品经理/工程师核心论文阅读清单 — 三级优先级 × 七大研究方向 × 45 篇必读论文
+
+> From Transformer to Diffusion Models, from RLHF to Multimodal — the papers that shaped modern AI.
+
+### How to use this list
+
+- **Priority 1 (范式奠基):** Must-read foundations — start here
+- **Priority 2 (技术突破):** Key breakthroughs that moved the field forward
+- **Priority 3 (前沿探索):** Cutting-edge research directions
+
+If you're an AI PM, read Priority 1 first. If you're a researcher, go deep into your area of interest.
 
 ---
 
@@ -168,3 +180,21 @@
 ---
 
 *最后更新：2025年*
+
+---
+
+## Contributing
+
+Know a paper that should be on this list? Open an issue or PR! Please include:
+- Paper title and arXiv link
+- Which category it belongs to
+- A one-line description of its core contribution
+
+## Star History
+
+If this list helped you, a ⭐ would be appreciated!
+
+---
+
+**Curated by:** [Yueying Wu](https://yueyingai.com) · [GitHub](https://github.com/yueying526) · [X](https://x.com/wuyueying526)
+
